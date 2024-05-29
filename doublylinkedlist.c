@@ -36,4 +36,5 @@ int main(){
     delete_at_beg();
     delete_at_end();
 
-}
+
+}//checking
