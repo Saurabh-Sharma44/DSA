@@ -57,4 +57,4 @@ int main() {
   insert_at_beg(100,&head);
   printf("\n");
   printLinkedlist(head);
-}
+}//checking
